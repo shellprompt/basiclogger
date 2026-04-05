@@ -1,6 +1,10 @@
 # basiclogger
 A simple python logger that I created.
 
+note this code is very messy, i didnt follow any standards so itll probably break
+it works though
+i dont like python 
+
 ### Usage
 ```py
 import basiclogger
